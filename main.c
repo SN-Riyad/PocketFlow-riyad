@@ -8,7 +8,7 @@ struct User {
     char password[50];
 };
 
-// ---------------- SIGN UP ----------------
+// ---------------- SIGN UP -----------------
 void signUp() {
     struct User newUser;
     FILE *fp;
